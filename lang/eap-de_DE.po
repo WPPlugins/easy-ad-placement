@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Ad Placement - for AdSense and other Ads v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-24 19:34:46+0000\n"
+"Last-Translator: Jens Herdy <eap@randnotizen.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: easy-ad-placement.php:73
+#@ eap
+msgid "Options successfully Updated !"
+msgstr "Optionen erfolgreich gespeichert !"
+
+#: easy-ad-placement.php:80
+#@ eap
+msgid "Options"
+msgstr "Optionen"
+
+#: easy-ad-placement.php:82
+#@ eap
+msgid "Paste your ad codes (e.g. Google Adsense) into the fields on the right."
+msgstr "Füge deinen Code für die Werbung (z.B. Google AdSense) in die Felder rechts ein."
+
+#: easy-ad-placement.php:83
+#@ eap
+msgid "With the php-snippets or the shortcodes on the left you can place the ads where you want."
+msgstr "Mit den PHP-Schnipseln oder den Shortcodes auf der linken Seite kannst du deine Werbung platzieren wo du möchtest."
+
+#: easy-ad-placement.php:93
+#: easy-ad-placement.php:111
+#: easy-ad-placement.php:129
+#: easy-ad-placement.php:147
+#: easy-ad-placement.php:165
+#: easy-ad-placement.php:183
+#: easy-ad-placement.php:201
+#: easy-ad-placement.php:219
+#: easy-ad-placement.php:237
+#: easy-ad-placement.php:255
+#@ eap
+msgid "Ad Code"
+msgstr "Werbung"
+
+#: easy-ad-placement.php:94
+#: easy-ad-placement.php:112
+#: easy-ad-placement.php:130
+#: easy-ad-placement.php:148
+#: easy-ad-placement.php:166
+#: easy-ad-placement.php:184
+#: easy-ad-placement.php:202
+#: easy-ad-placement.php:220
+#: easy-ad-placement.php:238
+#: easy-ad-placement.php:256
+#@ eap
+msgid "To display the code use"
+msgstr "Um die Werbung anzuzeigen benutze"
+
+#: easy-ad-placement.php:95
+#: easy-ad-placement.php:113
+#: easy-ad-placement.php:131
+#: easy-ad-placement.php:149
+#: easy-ad-placement.php:167
+#: easy-ad-placement.php:185
+#: easy-ad-placement.php:203
+#: easy-ad-placement.php:221
+#: easy-ad-placement.php:239
+#: easy-ad-placement.php:257
+#@ eap
+msgid "The shortcode"
+msgstr "Den Shortcode"
+
+#: easy-ad-placement.php:96
+#: easy-ad-placement.php:114
+#: easy-ad-placement.php:132
+#: easy-ad-placement.php:150
+#: easy-ad-placement.php:168
+#: easy-ad-placement.php:186
+#: easy-ad-placement.php:204
+#: easy-ad-placement.php:222
+#: easy-ad-placement.php:240
+#: easy-ad-placement.php:258
+#@ eap
+msgid "The php code"
+msgstr "Den PHP-Code"
+
+#: easy-ad-placement.php:98
+#: easy-ad-placement.php:116
+#: easy-ad-placement.php:134
+#: easy-ad-placement.php:152
+#: easy-ad-placement.php:170
+#: easy-ad-placement.php:188
+#: easy-ad-placement.php:206
+#: easy-ad-placement.php:224
+#: easy-ad-placement.php:242
+#: easy-ad-placement.php:260
+#@ eap
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: easy-ad-placement.php:100
+#: easy-ad-placement.php:118
+#: easy-ad-placement.php:136
+#: easy-ad-placement.php:154
+#: easy-ad-placement.php:172
+#: easy-ad-placement.php:190
+#: easy-ad-placement.php:208
+#: easy-ad-placement.php:226
+#: easy-ad-placement.php:244
+#: easy-ad-placement.php:262
+#@ eap
+msgid "None"
+msgstr "Keine"
+
+#: easy-ad-placement.php:101
+#: easy-ad-placement.php:119
+#: easy-ad-placement.php:137
+#: easy-ad-placement.php:155
+#: easy-ad-placement.php:173
+#: easy-ad-placement.php:191
+#: easy-ad-placement.php:209
+#: easy-ad-placement.php:227
+#: easy-ad-placement.php:245
+#: easy-ad-placement.php:263
+#@ eap
+msgid "Left"
+msgstr "Links"
+
+#: easy-ad-placement.php:102
+#: easy-ad-placement.php:120
+#: easy-ad-placement.php:138
+#: easy-ad-placement.php:156
+#: easy-ad-placement.php:174
+#: easy-ad-placement.php:192
+#: easy-ad-placement.php:210
+#: easy-ad-placement.php:228
+#: easy-ad-placement.php:246
+#: easy-ad-placement.php:264
+#@ eap
+msgid "Center"
+msgstr "Zentriert"
+
+#: easy-ad-placement.php:103
+#: easy-ad-placement.php:121
+#: easy-ad-placement.php:139
+#: easy-ad-placement.php:157
+#: easy-ad-placement.php:175
+#: easy-ad-placement.php:193
+#: easy-ad-placement.php:211
+#: easy-ad-placement.php:229
+#: easy-ad-placement.php:247
+#: easy-ad-placement.php:265
+#@ eap
+msgid "Right"
+msgstr "Rechts"
+
+#: easy-ad-placement.php:275
+#@ eap
+msgid "Update options"
+msgstr "Optionen speichern"
+
+#: easy-ad-placement.php:281
+#@ eap
+msgid "If you want to thank the developer for this free Plugin, you are welcome to make a donation via PayPal (you don't need a PayPal account to make the donation)."
+msgstr "Wenn du dem Entwickler für dieses kostenlose Plugin danken möchtest, kannst du gerne bei PayPal eine Spende hinterlassen (es wird kein PayPal Account benötigt)."
+
